@@ -1,0 +1,25 @@
+{
+  "name": "curso-manipulacion-arrays",
+  "version": "1.0.0",
+  "description": "curso de manipulacion de arrays en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimerdev/curso-manipulacion-arrays.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jaime Guerrero <jaime.lgr97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimerdev/curso-manipulacion-arrays/issues"
+  },
+  "homepage": "https://github.com/jaimerdev/curso-manipulacion-arrays#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
